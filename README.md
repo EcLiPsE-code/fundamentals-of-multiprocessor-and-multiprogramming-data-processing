@@ -1,2 +1,2 @@
-# fundamentals-of-multiprocessor-and-multiprogramming-data-processing
- с++
+<strong>Основы мультипроцессорной и мультипрограммной обработки данных</strong><br>
+<i>Язык программирования: </i>С++

@@ -1,0 +1,3 @@
+F:/Learning/fundamentals-of-multiprocessor-and-multiprogramming-data-processing/Lab_1/cmake-build-debug/CMakeFiles/Lab_2.dir
+F:/Learning/fundamentals-of-multiprocessor-and-multiprogramming-data-processing/Lab_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/Learning/fundamentals-of-multiprocessor-and-multiprogramming-data-processing/Lab_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

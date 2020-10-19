@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/Learning/fundamentals-of-multiprocessor-and-multiprogramming-data-processing/Lab_1/main.cpp
+iostream
+-
+matrix.cpp
+F:/Learning/fundamentals-of-multiprocessor-and-multiprogramming-data-processing/Lab_1/matrix.cpp
+
+F:/Learning/fundamentals-of-multiprocessor-and-multiprogramming-data-processing/Lab_1/matrix.cpp
+cmath
+-
+
